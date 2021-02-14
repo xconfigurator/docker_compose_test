@@ -17,3 +17,6 @@ git branch -M main
 git push -u origin main
 ```
 
+## 修改docker镜像
+https://cr.console.aliyun.com/cn-qingdao/instances/mirrors
+
