@@ -10,6 +10,6 @@ rabbitmq:3.8.11-management-alpine
 docker-compose up -d
 ```
 
-## 管理控制台
+## 控制台
 http://192.168.5.51:15672
 guest/guest
